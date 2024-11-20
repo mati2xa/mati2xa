@@ -1,4 +1,4 @@
-## Curs progrmació 24/25 👋
+## Curs progrmació 24/25 
 ### Professor : Guillem
 <!--
 **mati2xa/mati2xa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
